@@ -1,0 +1,6 @@
+*.csv
+Arquivos*/
+*.txt
+importador*
+exportador-*
+*.sql
