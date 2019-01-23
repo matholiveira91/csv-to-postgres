@@ -2,7 +2,7 @@
 
 <h2>ADVICES</h2>
 
-**pip install -r requirements.txt
+<b>pip install -r requirements.txt</b>
 
 <h3>Alternatively install prereqs</h3>
 pip install pandas psycopg2 sqlalchemy
